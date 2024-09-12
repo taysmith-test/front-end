@@ -19,16 +19,16 @@
   "license": "MIT",
   "dependencies": {
     "async": "^1.5.2",
-    "body-parser": "^1.15.1",
+    "body-parser": "^1.20.3",
     "connect-redis": "^3.2.0",
     "cookie-parser": "^1.4.3",
-    "express": "^4.13.4",
+    "express": "^4.21.0",
     "express-session": "^1.13.0",
     "finalhandler": "^0.4.1",
     "morgan": "^1.7.0",
     "prom-client": "^6.3.0",
     "request": "^2.72.0",
-    "serve-static": "1.12.6"
+    "serve-static": "1.16.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
