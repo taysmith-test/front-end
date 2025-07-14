@@ -27,7 +27,7 @@
     "finalhandler": "^0.4.1",
     "morgan": "^1.7.0",
     "prom-client": "^6.3.0",
-    "request": "^2.72.0",
+    "request": "^2.88.2",
     "serve-static": "1.12.6"
   },
   "devDependencies": {
